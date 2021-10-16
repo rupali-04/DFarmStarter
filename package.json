@@ -1,0 +1,24 @@
+{
+  "name": "dfarmstarter",
+  "version": "1.0.0",
+  "description": "Decentralized Fund rasing application for farmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupali-04/DFarmStarter.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Ethereum",
+    "Solidity"
+  ],
+  "author": "Rupali Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rupali-04/DFarmStarter/issues"
+  },
+  "homepage": "https://github.com/rupali-04/DFarmStarter#readme"
+}
