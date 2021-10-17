@@ -17,3 +17,4 @@ Structure:
 7. This will allow Buyer to set the Cost of Logistics.
 8. Once the Logistics Recive the Crops will than call Deliver Function which will help the Farmer to release his profit from the Campaign and close the campaign.
          
+Video demo in Remix: https://youtu.be/knnjB019Mjs
